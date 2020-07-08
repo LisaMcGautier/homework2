@@ -17,3 +17,9 @@ Today, 7/8, I made some final adjustments to the .html, most notably adding rows
 I struggled on this project with getting the "About, Contact, Portfolio" to appear as a second row below the Navbar button with my name at the smallest breakpoint.  I created navbar.html to play with various templates from Bootstrap to replicate the navber as it appears in the assignment.  I was ultimately not successful.  
 
 I did come across a template on Bootstrap (Pricing Template - "template.html") which DOES replicate the format from the images, but ultimately I decided to submit the files I was able to create on my own.  Above all, I understand that this is a work in progress, and that my skills will improve.
+
+screenshots provided in screenshots folder.
+
+https://lisamcgautier.github.io/homework2/
+
+https://github.com/LisaMcGautier/homework2/
